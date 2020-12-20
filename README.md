@@ -7,6 +7,7 @@ Galimos komandos konsolėje:
 "Buy Candy 20" - turėtų nupirkti visus egzistuojančius toks item egzistuoja parduotuvėje ir yra toks kiekis. Jei ne, turėtų parodyti atitinkamą žinutę.
 "Add Cup 30" - turėtų papildyti parduotuvę su atitinkamu produktu ir kiekiu. Tai turętų atsivaizduoti ir "List" komandoje. 
 Jei tokiu produktų jau yra, papildyti.
+# 
 Extra: 
 Sukurti Vartotojo klasę, kuri laikytų pinigų balancą.
 Pakeisti kodą, kad atsirastų kainos. Modifikuoti List, kad parodytų ir kainas.
