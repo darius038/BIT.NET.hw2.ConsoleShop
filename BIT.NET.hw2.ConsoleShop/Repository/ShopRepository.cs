@@ -1,10 +1,10 @@
-﻿using BIT.NET.hw2.ConsoleShop.Data;
+﻿using BIT.NET.hw5.ConsoleShop.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace BIT.NET.hw2.ConsoleShop.Repository
+namespace BIT.NET.hw5.ConsoleShop.Repository
 {
     public static class ShopRepository
     {

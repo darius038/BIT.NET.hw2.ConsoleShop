@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIT.NET.hw2.ConsoleShop", "BIT.NET.hw2.ConsoleShop\BIT.NET.hw2.ConsoleShop.csproj", "{2530A3B1-FCF9-471B-B1ED-879242EAE3CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIT.NET.hw5.ConsoleShop", "BIT.NET.hw2.ConsoleShop\BIT.NET.hw5.ConsoleShop.csproj", "{2530A3B1-FCF9-471B-B1ED-879242EAE3CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

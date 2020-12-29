@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BIT.NET.hw2.ConsoleShop.Data
+namespace BIT.NET.hw5.ConsoleShop.Data
 {
     public class User
     {
